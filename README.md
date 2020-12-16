@@ -1,6 +1,6 @@
 # hqOsu-xtreme
 
-THIS IS EXPERIMENTAL BRANCH! STUFF MIGHT NOT BE COMPLETE OR STABLE! PLEASE USE IT WITH YOUR OWN RISK! I'VE WARNED YOU!
+# THIS IS EXPERIMENTAL BRANCH! SOME STUFF MIGHT NOT BE COMPLETE OR STABLE! PLEASE USE IT WITH YOUR OWN RISK! I'VE WARNED YOU!
 
 Important :
 - Only works on osu!stable latest version
@@ -11,4 +11,7 @@ Extra Addons :
 - Incognito Mode, hides your indenity from DiscordRPC and live streams.
 - Free osu!Direct, ~~too poor~~ lazy to download on web-browser? I got you covered.
 
-Made by hq.af and unofficial fork by Aoba (Hazuki-san)
+## Special Thanks
+- **hq.af** - for making the original cheat
+- **Cherry** - for hqOsu-legacy and the "DLL" file
+- **Ainu xheaters** community - for the support
