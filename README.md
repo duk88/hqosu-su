@@ -1,4 +1,5 @@
 # hqOsu-xtreme
+# NOTICE: @Kinue72's fork violated my cheat, so the journey ends here. You're on your own. This project is stopped.
 
 Important :
 - Only works on osu!stable latest version
