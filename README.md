@@ -1,8 +1,9 @@
-welcome to hqosu-su
-
-client will only work on ainu
-
-any other server will automatically crash your game
+# welcome to hqosu-su
+### features
++ client will only work on ainu
++ any other server will automatically crash your game
+### license & agreements
+![](https://i.imgur.com/VC1g4Oy.png)
 
 The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal bodeboop. A sing lap should be completed every time you hear this sound. ding Remember to run in a straight line and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark. Get ready!… Start.
 
@@ -30,4 +31,4 @@ Lately I’ve been worried, after learning much about Nene’s upcoming outfit r
 
 yarr....a pirate, and a girl? lifts eyepatch, eyes bulge out, my parrot squacks "Braaawwwk! Thar she blows!", i thump my pegleg on the ground like a horny rabbit, sound of a dock bell being rung as i sway from side, my pirate hat lifts a foot off my head, popeye theme plays, my tongue rolls out to reveal a picture of the jolly roger which proceeds to animate and wolf whistel yarr!!! my parrot knocks me on the head lile a woodpecker yar!! what ye be doin, polly? my parrot grabs mw by the collar with one wing and slaps me with the other yarr... i shake my head rapidly, regain my composure, adjust my pirate hat er...ye be lookin beautiful today, matey
 
-credits: none
+### credits: none
